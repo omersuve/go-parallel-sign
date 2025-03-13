@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/omersuve/paribu-primes/pkg/auth"
-	"github.com/omersuve/paribu-primes/pkg/pool"
+	"github.com/omersuve/go-parallel-sign/pkg/auth"
+	"github.com/omersuve/go-parallel-sign/pkg/pool"
 )
 
 var clientCounter int32

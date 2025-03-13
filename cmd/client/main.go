@@ -7,8 +7,8 @@ import (
 	"math/rand"
 	"net"
 
-	"github.com/omersuve/paribu-primes/pkg/auth"
-	"github.com/omersuve/paribu-primes/pkg/primes"
+	"github.com/omersuve/go-parallel-sign/pkg/auth"
+	"github.com/omersuve/go-parallel-sign/pkg/primes"
 )
 
 func main() {

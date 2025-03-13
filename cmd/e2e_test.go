@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/omersuve/paribu-primes/pkg/auth"
-	"github.com/omersuve/paribu-primes/pkg/pool"
-	"github.com/omersuve/paribu-primes/pkg/primes"
+	"github.com/omersuve/go-parallel-sign/pkg/auth"
+	"github.com/omersuve/go-parallel-sign/pkg/pool"
+	"github.com/omersuve/go-parallel-sign/pkg/primes"
 )
 
 // TestIntegration_ServerClient tests the full server-client interaction
