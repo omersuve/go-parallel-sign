@@ -1,8 +1,4 @@
-# Paribu Primes Case Study
-
 A TCP server-client app where clients send signed prime numbers, and the server collects unique prime numbers.
-
-## Version used
 
 - Go 1.23.6
 
